@@ -1,0 +1,18 @@
+html {
+  font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: placeholder: IM Fell French Canon SC
+}
+h1 {
+  font-size: 45px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 18px;    
+  line-height: 1;
+  letter-spacing: 1 px;
+}
+a {
+  font-size: 18px;
+  text-align: center;
+}
